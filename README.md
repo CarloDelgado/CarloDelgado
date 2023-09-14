@@ -13,7 +13,7 @@ class Skills extends SoftwareDeveloper {
   Frameworks = ["Angular Cli", "Spring Boot"],
   Testing = ["postman", "SonarQube"],
   Herramienta de desarrollo artificial = ["chatgpt 3", "Open IA"],
-  Herranmientas de desarrollo: ["Config Server", "Eureka Server", "Gateway", "Yacoco", "kafka", "redis"],
+  Herranmientas de desarrollo: ["Config Server", "Eureka Server", "Gateway", "jacoco", "kafka", "redis"],
 }
 
 
