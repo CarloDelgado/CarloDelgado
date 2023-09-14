@@ -39,4 +39,25 @@ Repositorios:
 Frontend: el desarrolo de una plataforma con un asistente virtual dispuesto para ayudar al alumnado con sus pregunta sobre los cursos de la casa de estudio  
 https://github.com/Hackathon-ChatGPT-NTTDATA/plataformaacademica.git
 
+backend: spring cloud
+configserver
+https://github.com/Hackathon-ChatGPT-NTTDATA/configserver.git
+
+eurekaserver 
+https://github.com/Hackathon-ChatGPT-NTTDATA/eurekaserver.git
+
+gateway
+https://github.com/Hackathon-ChatGPT-NTTDATA/gateway.git
+
+alumno webflux
+https://github.com/Hackathon-ChatGPT-NTTDATA/webflux.git
+ 
+cursos
+https://github.com/Hackathon-ChatGPT-NTTDATA/cursos.git
+
+kafka
+https://github.com/Hackathon-ChatGPT-NTTDATA/kafka.git
+
+redis
+https://github.com/Hackathon-ChatGPT-NTTDATA/redis.git
 
