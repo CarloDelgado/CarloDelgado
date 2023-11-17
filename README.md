@@ -69,7 +69,7 @@ https://github.com/Hackathon-ChatGPT-NTTDATA/redis.git
 
 ### Github Stats:
 
- ![github stats](https://github-readme-stats.vercel.app/api?username=CarloDelgado&show_icons=true)
+ 
 
  ### Link 
 [![Linkedin Badge](https://img.shields.io/badge/-CarloDelgado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlo-mark-delgado-marallano-072405227//)](https://www.linkedin.com/in/carlo-mark-delgado-marallano-072405227/)
